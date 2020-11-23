@@ -1,0 +1,2 @@
+  Issued                Expires               Principal
+Nov 23 14:48:41 2020  Nov 24 00:48:41 2020  krbtgt/42MADRID.COM@42MADRID.COM
